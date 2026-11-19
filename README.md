@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/notes-before.jpg" width="320" alt="">
-  <img src="screenshots/notes-after.jpg" width="320" alt="">
+  <img src="screenshots/image.png" alt="Просмотр важной заметки" width="300">
+  <img src="screenshots/image1.png" alt="Редактирование и удаление заметки свайпом влево" width="300">
+  <img src="screenshots/image2.png" alt="Снятие отметки важности свайпом вправо" width="300">
 </p>
